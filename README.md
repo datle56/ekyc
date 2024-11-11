@@ -1,5 +1,4 @@
-Link MODEL : 
-
+## **Link Model** : https://drive.google.com/drive/folders/1B_48pi_Vh4umqFP35HRP96J80HshOb1E
 
 
 ## Luồng dữ liệu
