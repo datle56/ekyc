@@ -1,3 +1,5 @@
+Link MODEL : 
+
 
 
 ## Luồng dữ liệu
